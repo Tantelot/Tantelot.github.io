@@ -5,6 +5,7 @@ I am
 - Good
 - Bad
 1. Not Good
-2. Not Bad
+---
+3. Not Bad
 ---
 [Contact](https://tantelot.github.io/contact.html)

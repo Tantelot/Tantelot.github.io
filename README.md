@@ -9,7 +9,7 @@ I am
 
 ---
 
-3. Not Bad
+2. Not Bad
 
 ---
 

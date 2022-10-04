@@ -15,7 +15,7 @@ I am
 
 > What is a blockquote?
 
-What I am saying is ==very important== :bowtie:
+What I am saying is ~~very important~~ :bowtie:
 
 [Contact](https://tantelot.github.io/contact.html)
 

@@ -7,3 +7,4 @@ I am
 1. Not Good
 2. Not Bad
 ---
+[Contact](https://tantelot.github.io/contact.html)
